@@ -1,13 +1,13 @@
 
  
-Anuj: Assistant for blind
+shara: Assistant for blind
 A voice assistant specifically aiming towards aiding the visually imapired.
 
 This system is used to help the visually impaired to have access to the most important features enhancing their living conditions making use of different custom layouts and using speech to text.
 
 More specifically, the system is a chat bot having features solely dedicated towards development of the visually impaired.
 
-Fetaures which make "Anuj" unique:
+Fetaures which make "shara" unique:
 The system consist of wearable headphones interfaced to Logitech webcam connected to Raspberry PI.
 
 The system performs tasks based on the input (in form of speech) given by the user and responds back as speech.
@@ -16,20 +16,20 @@ Key Features:
 
 Description:
 
-Anuj gives a single line description of the surrounding details
+shara gives a single line description of the surrounding details
 Road Conditions: Anuj gives the user an overview of the road conditions, which would further the visually impaired accordingly.
 Anuj also specifically mentions if the user is at common places like classrooms, kitchens, bedrooms, etc
 Responds the number of people, objects, etc in the frame of the webcam.
 Find:
 
-Anuj resonds to commands like find my purse?, check if my watch is in this room? depending upon whether @Entity is present in the frame of the camers
+shara resonds to commands like find my purse?, check if my watch is in this room? depending upon whether @Entity is present in the frame of the camers
 Read:
 
-Anuj also detects text from images and reads it loud.
+shara also detects text from images and reads it loud.
 As a further application it can summarize articles from newspapers.
 Fill forms
 
-Anuj also reads out forms (majorly applicable for bank purposes)
+shara also reads out forms (majorly applicable for bank purposes)
 Mobile Interactions
 
 It can read out notifications from mobile and as a further application respond to messages, emails, calender, etc
