@@ -18,7 +18,7 @@ Description:
 
 shara gives a single line description of the surrounding details
 Road Conditions: Anuj gives the user an overview of the road conditions, which would further the visually impaired accordingly.
-Anuj also specifically mentions if the user is at common places like classrooms, kitchens, bedrooms, etc
+shara also specifically mentions if the user is at common places like classrooms, kitchens, bedrooms, etc
 Responds the number of people, objects, etc in the frame of the webcam.
 Find:
 
